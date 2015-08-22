@@ -129,6 +129,7 @@ ul,ol{
 	float:left;
 	width:63%;
 	border: 1px solid #ccc;
+	background-color:#FFD685;
 	border-radius:10px;
 	padding:0 20px 20px 20px;
 }
@@ -325,8 +326,7 @@ article .readmore:hover{
 }
 
 body {
-	background-color:#fff;
-	
+	background-image:url("img/03-01.jpg");
 }
 
 /* ==========================================================================
