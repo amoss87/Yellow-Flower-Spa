@@ -1,1 +1,1 @@
-# blog_frontend
+<img src="img/spa_logo.png">
