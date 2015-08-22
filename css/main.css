@@ -85,6 +85,7 @@ ul,ol{
 	background:#fff;
 	overflow:hidden;
 	margin-bottom:20px;
+	border-bottom:2px solid #ccc;
 }
 
 #branding{
@@ -134,6 +135,7 @@ ul,ol{
 }
 
 article{
+	border-style:outset
 	border-bottom:1px dotted #ccc;
 	padding:10px 0 20px 0;
 }
@@ -324,7 +326,7 @@ article .readmore:hover{
 }
 
 body {
-	background-color:#bfd6f9;
+	background-color:#fff;
 	
 }
 
